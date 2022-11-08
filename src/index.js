@@ -1,4 +1,3 @@
-import App from './App';
 import { MsalProvider } from "@azure/msal-react";
 import { msalConfig } from "./authConfig";
 import { PublicClientApplication } from "@azure/msal-browser";
